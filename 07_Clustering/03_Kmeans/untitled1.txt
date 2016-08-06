@@ -1,0 +1,15 @@
+1 T
+2 D
+3 B
+4 18132
+5 A
+6 E
+7 
+
+Map Reduce
+
+1 D
+2 T
+3 T
+4 F
+5 not A
